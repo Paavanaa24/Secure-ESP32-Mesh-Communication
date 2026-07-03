@@ -64,10 +64,10 @@ Destination Device
 
 ## 📁 Repository Contents
 
-- Arduino source code
-- Project documentation
-- Circuit diagrams
-- Project presentation
+- Project Documentation
+- System Architecture
+- Communication Workflow
+- Design Specifications
 
 ---
 
@@ -90,6 +90,9 @@ Destination Device
 - Voice Messaging
 
 ---
+## 📝 Note
+
+This project was developed as part of a university team project. This repository contains the project documentation, architecture, and implementation details available to the author.
 
 ## 👩‍💻 Author
 
